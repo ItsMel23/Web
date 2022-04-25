@@ -1,0 +1,65 @@
+* {background-color: rgb(255, 255, 255);}
+h1 {font-style:oblique; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ; 
+    color: rgb(216, 119, 156); 
+    justify-content: center; 
+    text-align: center; 
+    font-size: 80px; }
+.house {font-size: 30px; 
+    padding-right: 50px; 
+    font-family: 'Courier New', Courier, monospace; 
+    color:rgb(20, 16, 18); 
+    text-decoration-line:none; 
+    padding-left: 190px; }
+.cero{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(37, 37, 37);
+    font-size:25px ; 
+    font-style: italic;}
+h2 {font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Geneva, Verdana, sans-serif; 
+    font-size: 50px; 
+    color: rgb(29, 20, 26); }
+h6 {font-family:'Courier New', Courier, monospace; 
+    font-size: 20px;  
+    color: rgba(122, 107, 115, 0.534); }
+.uno {color: rgb(37, 37, 37); 
+    font-size: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Arial, sans-serif;}
+.nana {margin: 30px;}
+.tres{font-family: Arial, Helvetica, sans-serif; 
+    font-style: oblique; 
+    color: rgba(51, 28, 35, 0.726); 
+    margin-left: 65px; 
+    font-size: large;}
+main, footer{float: left;
+    margin: 0 1.5%;
+    width: 63%;}
+aside{float: right;
+    margin: 0 1.5%;
+    width: 30%;}
+ h3{font-style:oblique; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ; 
+    color: rgb(216, 119, 156); 
+    font-size: 60px;}
+      h5{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+        font-size: 20px; 
+        color: rgb(82, 41, 51); 
+        font-weight: bold;}
+.link{padding-right: 80px;}
+.otras{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Geneva, Verdana, sans-serif; 
+    font-size: 40px; 
+    color: rgb(29, 20, 26);}
+.lek{text-decoration-line:none; 
+    color: rgb(44, 44, 44); 
+    font-size: 20px; 
+    font-style: italic ; 
+    font-family: 'Courier New', Courier, monospace; 
+    font-weight: bolder;}
+.lekd{text-decoration-line:none; 
+    color: rgb(44, 44, 44); 
+    font-size: 20px; 
+    font-style: italic ; 
+    font-family: 'Courier New', Courier, monospace; 
+    margin-top: 50px; 
+    font-weight: bolder;}
+.titlee{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 15px; 
+    color: rgb(75, 75, 75);}
